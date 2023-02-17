@@ -1,4 +1,0 @@
-Report based on binary file 17Day
-Employee 	Name	Hours	Salary
-1		sema	3	27
-2		vasia	9	81
