@@ -1,5 +1,0 @@
-﻿  Source.cpp
-  Creator.cpp
-  Создание кода...
-Creator.obj : error LNK2005: main уже определен в Source.obj
-D:\c\Project2\x64\Debug\Project2.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
